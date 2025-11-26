@@ -4,7 +4,7 @@ main:
     url: /aboutme/
   - title: "Data Visualisation"
     url: /portfolio/
-  - title: "Posts"
+  - title: "Posts & Tutorials"
     url: /posts/
   - title: "Scripts"
     url: https://github.com/eyezsac
