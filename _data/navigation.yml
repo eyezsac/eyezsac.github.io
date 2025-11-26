@@ -5,7 +5,7 @@ main:
   - title: "Data Visualisation"
     url: /portfolio/
   - title: "Posts"
-    url: /archive/
+    url: /posts/
   - title: "Scripts"
     url: https://github.com/eyezsac
   # - title: "Sitemap"
