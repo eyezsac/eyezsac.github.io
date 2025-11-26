@@ -126,7 +126,7 @@ author:
   location         : "London - UK"
   email            :
   links:
-      - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:isaac.reynolds46@gmail.com"
     - label: "LinkedIn"
