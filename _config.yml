@@ -123,7 +123,7 @@ analytics:
 # Site Author
 author:
   name             : "Isaac Reynolds"
-  avatar           : "/_images/core/isaac_wink.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/_images/core/DSC00792_small2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student at the University of York under Dr. Andrea Harper and Prof. Ian Bancroft. Currently Using transcriptomic and methylomic profiling to understand how plants respond to abiotic stress to support sustainable agriculture outcomes in the face of climate change! 🌾🌱 "  
   location         : "United Kingdom"
   email            :
