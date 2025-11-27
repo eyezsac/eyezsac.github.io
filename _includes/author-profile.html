@@ -16,7 +16,7 @@
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
     </h3>
     {% if author.location %}
-      <p itemprop="homeLocation" itemscope itemtype="https://schema.org/Place" class="author__location">
+      <p itemprop="homeLocation" itemscope itemtype="https://schema.org/Place" class="author__location" style="margin:0; line-height:1.2;">
         <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i>
         <span itemprop="name" class="p-locality">{{ author.location }}</span>
       </p>
