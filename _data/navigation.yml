@@ -2,11 +2,11 @@
 main:
   - title: "About Me"
     url: /aboutme/
-  - title: "Data Visualisation"
+  - title: "Portfolio"
     url: /portfolio/
   - title: "Posts & Tutorials"
     url: /posts/
-  - title: "Scripts"
+  - title: "Scripts (GitHub)"
     url: https://github.com/eyezsac
   # - title: "Sitemap"
   #   url: /sitemap/
