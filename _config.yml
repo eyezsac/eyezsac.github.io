@@ -122,8 +122,8 @@ analytics:
 author:
   name             : "Isaac Reynolds"
   avatar           : "/assets/core/DSC00792_small2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "🌾🌱 Currently at PhD Student at the University of York. Specialising in using genomics to profile plant regulomes and understand how they respond to abiotic stress!"  
   location         : "London - UK"
+  bio              : "🌾🌱 Currently at PhD Student at the University of York. Specialising in using genomics to profile plant regulomes and understand how they respond to abiotic stress!"  
   email            :
   links:
     - label: "Email"
@@ -131,7 +131,7 @@ author:
       url: "mailto:isaac.reynolds46@gmail.com"
     - label: "LinkedIn"
       icon: "fa-brands fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/isaacreynolds"
+      url: "https://www.linkedin.com/in/isaacreynolds"
     - label: "Bluesky"
       icon: "fa-brands fa-fw fa-bluesky"
       url: "https://plantsaac.bsky.social"
