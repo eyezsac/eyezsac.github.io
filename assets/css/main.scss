@@ -7,3 +7,15 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Prevent author profile from fading */
+.author__urls-wrapper {
+  opacity: 1 !important;
+  transition: none !important;
+}
+
+.author__avatar,
+.author__content {
+  opacity: 1 !important;
+  transition: none !important;
+}
