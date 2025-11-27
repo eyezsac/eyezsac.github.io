@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publications
 
-DNA methylation mediates transcriptional stability and transposon-driven trans-regulation under drought in wheat (2025) (in prep.)
+DNA methylation mediates transcriptional stability and transposon-driven trans-regulation under drought in wheat (2025) (in prep.)<br>
 Isaac J. Reynolds, Andrea L. Harper
 
  [Transcriptomic and co-expression network analyses on diverse wheat landraces identifies candidate master regulators of the response to early drought (2023)🌾<br>](https://doi.org/10.3389/fpls.2023.1212559)
