@@ -104,7 +104,7 @@ social:
   links: # An array of links to social media profiles
   - label: "Bluesky"
     icon: "fab fa-fw fa-twitter-square"
-    url: "https://isaac.on.computer"
+    url: "https://plantsaac.bsky.social"
   
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
