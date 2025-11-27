@@ -21,16 +21,16 @@
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.9;
     background-color: transparent;   // start with no box
-    border-radius: 8px;              // keep radius consistent
-    padding: 1em;                    // fixed padding so content doesn't move
+    border-radius: 16px;              // keep radius consistent
+    padding: 0.25em 1em 1em 1em;                    // fixed padding so content doesn't move
     transition: background-color 0.5s ease, 
                 box-shadow 0.5s ease, 
                 opacity 0.5s ease;
 
     &:hover {
       opacity: 1;
-      background-color: #fff;        // white box
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1); // subtle shadow    }
+      background-color: rgba(255, 255, 255, 0.85);        // whitish box
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15); // subtle shadow    }
 
     &.sticky {
       overflow-y: auto;
