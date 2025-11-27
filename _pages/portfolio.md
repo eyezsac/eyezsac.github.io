@@ -9,4 +9,4 @@ author_profile: true
 
 Cologne Spring Meeting (2025)
 
-[![Isaac Reynolds - Cologne Spring Meeting 2025 - Dissecting the Drought Regulome](assets/core/posters/cologne_poster_small.png "Dissecting the Drought Regulome - Isaac Reynolds")](assets/core/posters/cologne_poster_med.png)
+[![Isaac Reynolds - Cologne Spring Meeting 2025 - Dissecting the Drought Regulome](../assets/core/posters/cologne_poster_small.png "Dissecting the Drought Regulome - Isaac Reynolds")](../assets/core/posters/cologne_poster_med.png)
