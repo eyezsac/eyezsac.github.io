@@ -5,38 +5,10 @@ layout: single
 author_profile: true
 ---
 
-Goal-oriented researcher with a strong research background in using advanced genomics techniques to improve sustainable agriculture. Just finished a PhD in Mechanistic Biology at the University of York and I'm now on the hunt for a role that would really let me flex my data and science communication skills. 
+I'm a Plant Molecular Biologist and Researcher based in London. I've got a strong computational background, and I'm passionate about using advanced genomics techniques to improve sustainable agricultural practices. Currently on the hunt for my next challenge! 
 
-## Research & Outreach ##
-**Projects**<br>
-content
+I've recently completed a PhD at the University of York in Mechanistic Biology under Dr. Andrea Harper and Prof. Ian Bancroft, and I'm now working to finish up some of the loose ends from my thesis. In the Harper lab, I've focused on transcriptomic and epigenomic responses of complex crops - like wheat and brassicas - to harsh drought events during the seedling stage, and whether epigenetic heritability could convey a 'stress memory' that provides an adaptive benefit over unprimed plants. 
 
-**Publications**<br>
-content
+I've also got a strong interest in Science Policy and Outreach, have worked with the charity Sense about Science to coordinate workshops and events for ECRs, and have helped organise the Pint of Science Festival in York. Hit me up if you've got a SciComm or Outreach event you think I might be interested in! 
 
-**Science Communication**<br>
-content
-
-## Education ##
-**University of York** <br>
-content
-<br>
-
-**University of Southampton**<br>
-content
-
-## Experience ##
-**University of York**<br>
-content
-<br>
-
-**Sense about Science**<br>
-content
-<br>
-
-**Pint of Science**<br>
-content
-<br>
-
-**Hammersmith Medicines Research**<br>
-content
+**Interests:** Crop Science, Bioinformatics, Science Communication, Epigenetics, Transcriptomics, RNAi
