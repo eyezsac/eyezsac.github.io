@@ -3,7 +3,17 @@ title: "Research & Experience"
 permalink: /ceevee/
 layout: single
 author_profile: true
+# classes: wide
+toc: true
+header:
+  overlay_image: /assets/images/headers/network_header_transparent.png
+  image_description: "Gene network clusters"
+  overlay_filter: 0.01
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # overlay_color: "#333"
 ---
+
+Here's a [link to my CV (updated Dec 2025)](../assets/data/cv/Isaac_Reynolds.pdf). 
 
 ## Research ##
 ### Projects
@@ -19,43 +29,43 @@ I identified candidate hub genes, epigenetic signatures, and proposed novel meth
 #### PhD: Understanding how *Brassica juncea* responds to water deficit
 ... I wasn't content with just doing it in one species, and decided to replicate it in a dicot with a much smaller genome. Watch this space! 
 
-#### MSci: Diversification and phylogeny of *Macrotyloma* | How does domestication affect the epigenomic plasticity of *Brassica rapa*?
+#### MSci Projects
+*Diversification and phylogeny of *Macrotyloma* <br>
+*How does domestication affect the epigenomic plasticity of *Brassica rapa*?* <br>
 These were projects that I completed under Prof. Mark Chapman at the University of Southampton. These projects were my real introduction into the world of Bioinformatics, Epigenetics, and Phylogenetics. My work in *Macrotyloma* contributed to a publication about the underutilised genus of legumes, their uses, and improved the old (but surprisingly accurate) pollen morphology-derived taxonomic groupings, while my work in *Brassica* epigenomics has informed *all* my future projects.  
 
-### Publications
- [🪻 (Preprint) DNA methylation mediates transcriptional stability and transposon-driven trans-regulation under drought in wheat (2025)<br>](https://doi.org/10.64898/2025.12.04.692301)
-Isaac J. Reynolds, Liam J. Barratt, Andrea L. Harper
-
-[🌾 Transcriptomic and co-expression network analyses on diverse wheat landraces identifies candidate master regulators of the response to early drought (2023)<br>](https://doi.org/10.3389/fpls.2023.1212559)
-Liam J. Barratt &  Isaac J. Reynolds, Sara Franco Ortega, Andrea L. Harper
-
-[🫛 The Perennial Horse Gram (Macrotyloma axillare) Genome, Phylogeny, and Selection Across the Fabaceae<br>](https://doi.org/10.1007/978-3-031-00848-1_14)
-David Fisher, Isaac J. Reynolds, Mark A. Chapman
-
 ## Science Communication ##
-content
+### Pint of Science
+I facilitated outreach events with the public (16+) in pubs and cafés, connecting local researchers with their community, building trust and understanding of current research, and getting some really interesting science out there. I highly recommend getting involved! 
 
-## Education ##
-### University of York
-content
-<br>
-
-### University of Southampton
-content
+### Sense about Science | Voice of Young Science Network
+At SaS I worked a lot on their [VOYS](https://senseaboutscience.org/voys/) programme. They run [workshops](https://senseaboutscience.org/voys/workshops/) which are all about connecting early-career researchers with journalists, policy professionals, and experienced researchers to chat about how their fields all overlap, and how they can work together more effectively. There's also a couple of (not great) shots of me on the website! 
 
 ## Experience ##
-### University of York
-content
-<br>
+### University of York | Researcher + Graduate Teaching Assistant (2021-2026)
+- Investigated transcriptomic + epigenetic regulation of stress responses in complex polyploid crops using differential expression analysis, DNA methylation profiling, and gene co-expression networks 
+- Used bioinformatic analyses to explore high-dimensional omics datasets 
+- Adept at using command-line interfaces (CLIs) on Unix-based HPC systems to conduct bioinformatic analyses in R, Bash, and Python
+- Comfortable with workflow management tools, containerisation
+- Trained junior lab members in wet-lab and bioinformatics skills
+- Mentored + marked work from students in bioinformatics classes
 
-### Sense about Science
-content
-<br>
+### Sense about Science | Policy Intern (2024)
+- Conducted in-depth research into MP policy interests, collating data into a comprehensive database for queries. 
+- Wrote and checked copy on outgoing media, promoting events, news, and policy information for membership. 
+- Worked to organise, promote, and execute their successful ‘Evidence Week in Parliament’ event. 
+- Coordinated workshops for large ECR network, engaging with researchers, journalists, and policymakers 
+- Collaborated with government organisations on the development of future statistical transparency frameworks as part of Transparency in Government campaign. 
 
-### Pint of Science
-content
-<br>
+### Pint of Science | Marketing & Coordination (2025)
+- Organised successful events as part of the York Pint of Science festival team, connecting researchers and the local public to discuss science in fun venues
+- Coordinated advertising, engaged with local groups to increase attendance
+
+### Feeding the Future | Summer School Presenter (2023)
+- Delivered research talks to international GCSE and A-Level students as part of a summer school
+- Engaged with students in Q&A to facilitate their learning
 
 ### Hammersmith Medicines Research
-content
+- Conducted time-sensitive viral diagnostic protocols for viral testing; maintained patient records for auditing 
+- Adhered to GCP; liaised with internal trial teams, external clients 
 

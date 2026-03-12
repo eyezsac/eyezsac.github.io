@@ -6,7 +6,7 @@ main:
     url: /ceevee/
   - title: "Posts"
     url: /posts/
-  - title: "Projects"
-    url: /projects/
+  - title: "Publications + Projects"
+    url: /projects-n-pubs/
   - title: "GitHub"
     url: https://github.com/eyezsac

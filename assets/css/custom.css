@@ -1,0 +1,44 @@
+/* HEADER (masthead) */
+.masthead {
+  background-color: #fafbff !important;
+}
+
+.masthead__menu-item a,
+.masthead__menu-item a:visited {
+  color: #204269 !important;
+}
+
+.masthead__menu-item a:hover {
+  color: #0c223b !important;
+}
+
+/* FOOTER */
+.page__footer {
+  background-color: #fafbff !important;
+  color: #204269 !important;
+}
+
+.page__footer a {
+  color: #142f4d !important;
+}
+
+/* Kill the inner masthead box completely */
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav > * {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+/* Remove the grey divider line under the header */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.initial-content,
+.page__content {
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}

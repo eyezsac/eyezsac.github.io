@@ -175,6 +175,7 @@ include:
   - _tutorials
   - _pubs
   - _news-and-dataviz
+  - assets/css/custom.css
 
 exclude:
   - "*.sublime-project"

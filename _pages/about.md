@@ -1,8 +1,10 @@
 ---
-title: "About me"
+title: "Researcher Biography"
 permalink: /aboutme/
 layout: single
 author_profile: true
+classes: wide
+
 ---
 
 I'm a Plant Molecular Biologist and Researcher based in London. I've got a strong computational background, and I'm passionate about using advanced genomics techniques to improve sustainable agricultural practices. Currently on the hunt for my next challenge! 
