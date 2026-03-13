@@ -13,7 +13,7 @@ header:
   # overlay_color: "#333"
 ---
 
-Here's a [link to my CV (updated Dec 2025)](../assets/data/cv/Isaac_Reynolds.pdf). 
+Here's a [link to my CV (updated Dec 2025)](../assets/data/cv/Isaac_Reynolds.pdf). Below are some more in-depth details about my projects and experience!
 
 ## Research ##
 ### Projects

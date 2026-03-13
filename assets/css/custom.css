@@ -42,3 +42,172 @@
   border-bottom: none !important;
   box-shadow: none !important;
 }
+
+/* Global code block font size */
+pre code {
+  font-size: 14px;   /* or 14px, 13px, etc. */
+  line-height: 1.4;
+}
+
+/* CODE BLOCK SYNTAX HIGHLIGHTING */
+
+/* Improve code block text contrast */
+.highlight code,
+.highlight pre code {
+  color: #333 !important;   /* darker base text */
+}
+
+/* Optional: tune specific token types */
+.highlight .k { color: #6c63ff !important; }   /* keywords */
+.highlight .n { color: #222 !important; }      /* names / identifiers */
+.highlight .o { color: #444 !important; }      /* operators */
+.highlight .s { color: #b03060 !important; }   /* strings */
+
+/* Base text for code blocks */
+.highlight code,
+.highlight pre code,
+pre code {
+  color: #2a2a2a !important; /* strong neutral for maximum readability */
+}
+
+/* Comments */
+.highlight .c,
+pre code .c {
+  color: #9a6f9e !important; /* muted purple, readable but not dominant */
+  font-style: italic;
+}
+
+/* Keywords (function names, if, else, for, etc.) */
+.highlight .k,
+pre code .k {
+  color: #7b3fb3 !important; /* rich purple */
+  font-weight: 500;
+}
+
+/* Strings */
+.highlight .s,
+pre code .s {
+  color: #b43757 !important; /* deep rose red */
+}
+
+/* Numbers */
+.highlight .m,
+pre code .m {
+  color: #1a759f !important; /* teal accent */
+}
+
+/* Operators and punctuation (brackets, commas, =, +, -, etc.) */
+.highlight .o,
+.highlight .p,
+pre code .o,
+pre code .p {
+  color: #444 !important; /* dark grey so brackets are clearly visible */
+  font-weight: 500;
+}
+
+/* Function names / identifiers */
+.highlight .nf,
+pre code .nf {
+  color: #5a2ca0 !important; /* slightly brighter purple */
+}
+
+/* Constants / booleans */
+.highlight .kc,
+pre code .kc {
+  color: #a23f3f !important; /* warm red */
+}
+
+/* Comments — darker muted orange for readability */
+.highlight .c,
+pre code .c {
+  color: #b26e2f !important;   /* warm muted orange */
+  font-style: italic;
+}
+
+/* Rouge comment tokens (covers all variants) */
+.highlight .c,
+.highlight .c1,
+.highlight .cm,
+.highlight .cp,
+.highlight .cs,
+pre code .c,
+pre code .c1,
+pre code .cm,
+pre code .cp,
+pre code .cs {
+  color: #30a334 !important;   /* warm muted orange */
+  font-style: italic;
+}
+
+
+/* Strings (quoted text) — darker green for readability */
+.highlight .s,
+.highlight .s1,
+.highlight .s2,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx,
+pre code .s,
+pre code .s1,
+pre code .s2,
+pre code .sb,
+pre code .sc,
+pre code .sd,
+pre code .se,
+pre code .sh,
+pre code .si,
+pre code .sx {
+  color: #b26e2f !important;   /* deep, readable green */
+}
+
+/* Completely remove Minimal Mistakes' default borders */
+pre,
+pre code {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* Reapply your custom styling */
+pre {
+  border-left: 4px solid #7f00c9 !important;  /* your red accent */
+  background: #f7f7f7 !important;
+  border-radius: 1px !important;
+  padding: 1rem !important;
+}
+
+/* Base code tokens (everything that is not a string, comment, keyword, number, or operator) */
+.highlight .n,
+.highlight .na,
+.highlight .nb,
+.highlight .nc,
+.highlight .nd,
+.highlight .ne,
+.highlight .nf,
+.highlight .ni,
+.highlight .nl,
+.highlight .nn,
+.highlight .no,
+.highlight .nt,
+.highlight .nv,
+.highlight .w,
+pre code .n,
+pre code .na,
+pre code .nb,
+pre code .nc,
+pre code .nd,
+pre code .ne,
+pre code .nf,
+pre code .ni,
+pre code .nl,
+pre code .nn,
+pre code .no,
+pre code .nt,
+pre code .nv,
+pre code .w {
+  color: #0b3d91 !important;   /* deep, readable dark blue */
+}
